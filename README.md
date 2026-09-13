@@ -1,6 +1,6 @@
 # 🧠 BeBalmy — AI Mental Wellness App
 
-Dr. Aisha, your GenZ Hinglish mental health buddy — powered by Gemini 2.5 Flash.
+Dr. Anuti, your GenZ Hinglish mental health buddy — powered by Gemini 2.5 Flash.
 
 ---
 
