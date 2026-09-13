@@ -1,4 +1,4 @@
-# 🧠 Bhakti — AI Mental Wellness App
+# 🧠 BeBalmy — AI Mental Wellness App
 
 Dr. Aisha, your GenZ Hinglish mental health buddy — powered by Gemini 2.5 Flash.
 
@@ -16,10 +16,10 @@ Dr. Aisha, your GenZ Hinglish mental health buddy — powered by Gemini 2.5 Flas
 
 ### Step 2 — Put code on GitHub
 1. Go to [github.com](https://github.com) → **New Repository**
-2. Name it `bhakti` → Set to **Private** → Click **Create Repository**
+2. Name it `BeBalmy` → Set to **Private** → Click **Create Repository**
 3. Upload ALL files keeping the exact folder structure:
 ```
-bhakti/
+BeBalmy/
 ├── public/
 │   └── index.html
 ├── api/
@@ -32,7 +32,7 @@ bhakti/
 ### Step 3 — Deploy on Vercel
 1. Go to [vercel.com](https://vercel.com) → Sign up with GitHub (free)
 2. Click **Add New Project**
-3. Select your `bhakti` repo → Click **Import**
+3. Select your `BeBalmy` repo → Click **Import**
 4. Click **Deploy** (no settings to change)
 5. Wait ~1 minute ✅
 
@@ -50,7 +50,7 @@ bhakti/
 ---
 
 ### Step 5 — Done! 🎉
-Your live URL: `bhakti.vercel.app`
+Your live URL: `BeBalmy.vercel.app`
 
 ---
 
